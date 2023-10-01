@@ -1,5 +1,3 @@
-# Team Magma
+# Centille
 
-A group of Pokémon trainers on their journey to become Pokémon Masters.
-
-📍 **Location**: [Hoenn Region](https://bulbapedia.bulbagarden.net/wiki/Hoenn)
+We are a group of University students trying to solve everyday problems through Code
